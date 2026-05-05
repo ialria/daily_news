@@ -64,10 +64,3 @@ No installation required 🚀
 - Responsive design  
 - Loading states (UX improvement)  
 
- Future Improvements
-
-- 🔍 Search functionality  
-- 🏷️ Category filters (Sports, Politics, Tech)  
-- 🌙 Dark mode  
-- ❤️ Save favorite news  
-- 📱 Convert into full web app  
